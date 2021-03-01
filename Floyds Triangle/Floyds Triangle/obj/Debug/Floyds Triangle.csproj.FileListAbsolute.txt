@@ -1,0 +1,6 @@
+C:\Users\matthewyeend\Desktop\Floyds Triangle\Floyds Triangle\bin\Debug\Floyds Triangle.exe.config
+C:\Users\matthewyeend\Desktop\Floyds Triangle\Floyds Triangle\bin\Debug\Floyds Triangle.exe
+C:\Users\matthewyeend\Desktop\Floyds Triangle\Floyds Triangle\bin\Debug\Floyds Triangle.pdb
+C:\Users\matthewyeend\Desktop\Floyds Triangle\Floyds Triangle\obj\Debug\Floyds Triangle.csprojResolveAssemblyReference.cache
+C:\Users\matthewyeend\Desktop\Floyds Triangle\Floyds Triangle\obj\Debug\Floyds Triangle.exe
+C:\Users\matthewyeend\Desktop\Floyds Triangle\Floyds Triangle\obj\Debug\Floyds Triangle.pdb
